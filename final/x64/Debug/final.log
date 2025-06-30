@@ -1,0 +1,35 @@
+﻿  admin.c
+  admin_menu.c
+C:\Users\qi'qi\Desktop\final\admin.c(59,12): warning C4133: “初始化”: 从“User *”到“Admin *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\admin.c(374,48): warning C4133: “函数”: 从“Admin *”到“User *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\admin.c(940,6): warning C4142: "super_modify_admin_info": 类型的良性重定义
+      C:\Users\qi'qi\Desktop\final\cainiao.h(297,6):
+      参见“super_modify_admin_info”的声明
+  
+C:\Users\qi'qi\Desktop\final\admin.c(1112,56): warning C4133: “函数”: 从“Admin *”到“User *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\admin.c(1493,52): warning C4133: “函数”: 从“Admin *”到“User *”的类型不兼容
+  cainiao.c
+  complaint.c
+  main.c
+  manage.c
+  menu.c
+  pickup_express.c
+C:\Users\qi'qi\Desktop\final\pickup_express.c(19,10): warning C4101: “time_buffer”: 未引用的局部变量
+C:\Users\qi'qi\Desktop\final\pickup_express.c(113,29): warning C4133: “函数”: 从“ExpressNode *”到“Express *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\pickup_express.c(118,27): warning C4133: “函数”: 从“ExpressNode *”到“Express *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\pickup_express.c(96,18): warning C4133: “初始化”: 从“Express *”到“ExpressNode *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\pickup_express.c(277,18): warning C4133: “初始化”: 从“Express *”到“ExpressNode *”的类型不兼容
+  reject_express.c
+  send_express.c
+C:\Users\qi'qi\Desktop\final\send_express.c(162,24): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  send_fee.c
+C:\Users\qi'qi\Desktop\final\send_fee.c(138,44): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+  shelf.c
+C:\Users\qi'qi\Desktop\final\shelf.c(535,26): warning C4133: “初始化”: 从“Express *”到“ExpressNode *”的类型不兼容
+C:\Users\qi'qi\Desktop\final\shelf.c(564,13): warning C4133: “return”: 从“ExpressNode *”到“Express *”的类型不兼容
+  user.c
+  user_menu.c
+  utils.c
+  正在生成代码...
+  LINK : 没有找到 C:\Users\qi'qi\Desktop\final\x64\Debug\final.exe 或上一个增量链接没有生成它；正在执行完全链接
+  final.vcxproj -> C:\Users\qi'qi\Desktop\final\x64\Debug\final.exe

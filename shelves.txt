@@ -1,0 +1,5 @@
+shelf_id,max_capacity,current_count,pickup_list
+B01,999,0,
+C01,999,0,
+F01,999,0,
+N01,999,0,
